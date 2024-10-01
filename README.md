@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aldo Guadalupe Armenta Negrete</h1>
 <h3 align="center">A passionate Fullstack developer from México</h3>
 
-- 🔭 I’m currently working on [follow up invoices and pendings on a hotel system](https://github.com/aldoAN60/hotel_river)
+- 🔭 I’m currently working on [control de gastos](https://github.com/aldoAN60/control_gastos)
 
-- 🌱 I’m currently learning **Angular, python, Django**
+- 🌱 I’m currently learning **Vue, PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aldoAN60?tab=repositories](https://github.com/aldoAN60?tab=repositories)
 
-- 💬 Ask me about **PHP, Laravel, JavaScript, SQL, HTML, CSS, Boostrap**
+- 💬 Ask me about **PHP, Laravel, JavaScript, SQL, Tailwind**
 
 - 📫 How to reach me **aldoan60@gmail.com**
 
